@@ -5,7 +5,7 @@ This analysis is peformed to find the different insights based on the peoples ge
 
 Please visit the detailed description, data set and code by cliking the project title.
 
-![alt text](image_portfolio/Represtation of by sex in data set DEMOGRAPY TASK.png)
+![](Waqas-s_portfolio/image_portfolio/Represtation of by sex in data set DEMOGRAPY TASK.png)
 
 [Project 2. Medical data visualizer](https://github.com/Waqas-Rashid/Data-Analysis-with-Pyhton/tree/main/Medical-data-visualizer)
 

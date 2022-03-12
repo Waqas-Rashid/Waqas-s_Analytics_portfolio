@@ -40,10 +40,10 @@ Please visit the detailed description, data set and code by cliking the project 
 
 ![](https://github.com/Waqas-Rashid/Waqas-s_portfolio/blob/main/image_portfolio/Sea%20level%20predictor%20line%20of%20best%20fit%20till%202050.png)
 
-## [Project 5. Covid data set analysis(sql+tableau)](https://github.com/Waqas-Rashid/Data-Analytics-Sql-data-exploration/blob/main/CovidDataAnalysis.sql)
+## [Project 5. Covid data set analysis (sql+tableau)](https://github.com/Waqas-Rashid/Data-Analytics-Sql-data-exploration/blob/main/CovidDataAnalysis.sql)
 
 Analysis of covid [datasets](https://ourworldindata.org/covid-deaths) is performed to get insights of the infections rates, vaccinated population,percetages of deaths world wide and also country specific. An interactive tableau [dashboard](https://public.tableau.com/app/profile/waqas.rashid/viz/CovidStatsAnalysisWorldwide/Dashboard1) is created for better visualizations.
 Project is completed using microsoft sql and tableau.
 
-## [Project 5. Global market sales data anlysis(sql+tableau)]
+## [Project 5. Global market sales data anlysis (sql+tableau)](https://github.com/Waqas-Rashid/Data-Analytics-Sql-data-exploration/blob/main/EDA%20(Global%20store%20data).sql)
 Analysis for the sales data is performed to get insights like profit, sales, cost, total order, marktet share by different products. An intercative tableau [dashboard](https://public.tableau.com/app/profile/waqas.rashid/viz/InteractiveSalesDashboard_16438193433250/Dashboard1) is created for the analysis.  

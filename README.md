@@ -42,4 +42,4 @@ Please visit the detailed description, data set and code by cliking the project 
 
 ## [Project 5. Covid data set analysis](https://github.com/Waqas-Rashid/Data-Analytics-Sql-data-exploration/blob/main/CovidDataAnalysis.sql)
 
-Description yet to be added, you can visit the link to explore untile then.
+Description yet to be added, you can visit the link to explore until then.

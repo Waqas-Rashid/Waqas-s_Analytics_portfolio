@@ -4,7 +4,7 @@
 This analysis is peformed to find the different insights based on the peoples gender, race, educational level, hours of work, salaries, and different pattern which we can recognise from it.<br/>
 Please visit the detailed description, data set and code by cliking the project title.
 
-![](https://github.com/Waqas-Rashid/Waqas-s_portfolio/blob/main/image_portfolio/Represtation%20of%20by%20sex%20in%20data%20set%20DEMOGRAPY%20TASK.png)
+![](/image_portfolio/Represtation%20of%20by%20sex%20in%20data%20set%20DEMOGRAPY%20TASK.png)
 
 ## [Project 2. Medical data visualizer](https://github.com/Waqas-Rashid/Data-Analysis-with-Pyhton/tree/main/Medical-data-visualizer)
 In this project I am visualizing and make calculating different insights from medical examination data collected during medical examinations.<br/>

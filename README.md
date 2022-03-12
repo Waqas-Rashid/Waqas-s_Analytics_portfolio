@@ -19,16 +19,26 @@ Please visit the detailed description, data set and code by cliking the project 
 
 
 ## [Project 3. Page view time series visualizer](https://github.com/Waqas-Rashid/Data-Analysis-with-Pyhton/tree/main/Page-view-time-series-visualizer)
+In the project I time series data using line chart, bar chart, box plots. The dataset contain the number of page views each day on the freecodecamp.org forum from 2016-05-09 to 2019-12-03.
+The objective is to visualize and understand the patterns of visits monthly and yearly growth.
 
-Description yet to be added, you can visit the link to explore untile then.
+Please visit the detailed description, data set and code by cliking the project title.
+
+![](https://github.com/Waqas-Rashid/Waqas-s_portfolio/blob/main/image_portfolio/line%20plot%20time%20series.png)
+
+![](https://github.com/Waqas-Rashid/Waqas-s_portfolio/blob/main/image_portfolio/bar%20chart%20montly%20view%20grouped%20by%20year.png)
+
+![](https://github.com/Waqas-Rashid/Waqas-s_portfolio/blob/main/image_portfolio/time%20series%20year%20and%20month%20wise%20box%20plot%20for%20data%20distribution.png)
+
 
 
 
 ## [Project 4. Sea level predictor](https://github.com/Waqas-Rashid/Data-Analysis-with-Pyhton/tree/main/Sea-level-predictor)
+Using a global dataset of average sea level change and predicting the sea level change through year 2050,two predictions lines are plote one with the whole dataset and the other one with the latest data(2000 onward).
 
-Description yet to be added, you can visit the link to explore untile then.
+Please visit the detailed description, data set and code by cliking the project title.
 
-
+![](https://github.com/Waqas-Rashid/Waqas-s_portfolio/blob/main/image_portfolio/Sea%20level%20predictor%20line%20of%20best%20fit%20till%202050.png)
 
 ## [Project 5. Covid data set analysis](https://github.com/Waqas-Rashid/Data-Analytics-Sql-data-exploration/blob/main/CovidDataAnalysis.sql)
 

@@ -42,9 +42,11 @@ Analysis of covid [datasets](https://ourworldindata.org/covid-deaths) is perform
 Project is completed using microsoft sql and tableau.
 
 ## [Project 6. Global market sales data anlysis (sql+tableau)](https://github.com/Waqas-Rashid/Data-Analytics-Sql-data-exploration/blob/main/EDA%20(Global%20store%20data).sql)
-Analysis for the sales data is performed to get insights like profit, sales, cost, total order, marktet share by different products.<br/>An intercative tableau [dashboard](https://public.tableau.com/app/profile/waqas.rashid/viz/InteractiveSalesDashboard_16438193433250/Dashboard1) is created for the analysis.<br/><br/>
+Analysis for the sales data is performed to get insights like profit, sales, cost, total order, marktet share by different products.<br/>An intercative tableau [dashboard](https://public.tableau.com/app/profile/waqas.rashid/viz/InteractiveSalesDashboard_16438193433250/Dashboard1) is created for the analysis.<br/>
+<br/>
+<br/>
 
-**[Have a look at my other projects dashboards on my tableau public]**(https://public.tableau.com/app/profile/waqas.rashid)
+**[Have a look at my other projects dashboards on my tableau public](https://public.tableau.com/app/profile/waqas.rashid)**
 
 **Thanks for reading**<br/>
 **Open to work**<br/>

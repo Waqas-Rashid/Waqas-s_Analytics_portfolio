@@ -49,5 +49,6 @@ Analysis for the sales data is performed to get insights like profit, sales, cos
 **Thanks for reading**<br/>
 **Open to work**<br/>
 **Get in touch**<br/>
+**Location : Tallinn, Estonia**
 **MBL# +37257844923**<br/>
 **Email : waqasrashid@gmail.com**

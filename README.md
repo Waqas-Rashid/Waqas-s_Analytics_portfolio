@@ -46,7 +46,7 @@ Analysis for the sales data is performed to get insights like profit, sales, cos
 <br/>
 <br/>
 ## [Project 7. ETL Pipeline](https://github.com/Waqas-Rashid/ETL_Pipeline)
-Project_1: Scrapping data from Kaggle, transforming and making it available using Flask.
+Project_1: Scrapping data from Kaggle, transforming and making it available using Flask.<br/>
 Project_2: Scrapping data from Reddit's subreddit, transforming and making it available using Flask.
 
 <br/>
